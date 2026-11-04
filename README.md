@@ -40,27 +40,6 @@ Throughout this project, I gained practical experience with:
 - Virtual machine snapshots and recovery.
 - Technical documentation and project organization.
 
-## 📸 Project Screenshots
 
-Screenshots demonstrating the installation, configuration, network settings, and successful connectivity tests are included in this repository.
 
-## 🎥 Project Demonstration
 
-A short demonstration video showcasing the completed virtual cybersecurity lab is available in my project presentation.
-
-## 🙏 Acknowledgement
-
-Special thanks to **Sir Waqas Karim (CCIE)** and the **Networkwalks** team for their guidance and support throughout the Cybersecurity Program.
-
-## 📚 Program Information
-
-- **Organization:** Networkwalks
-- **Program:** Cybersecurity
-- **Batch:** B082
-- **Project:** Week 1 – Cybersecurity & Penetration Testing Lab Setup
-
----
-
-⭐ This is my first hands-on project in my cybersecurity learning journey. More projects and practical experiences coming soon!
-
-**#Cybersecurity #Networkwalks #KaliLinux #VirtualBox #PenetrationTesting #EthicalHacking**
